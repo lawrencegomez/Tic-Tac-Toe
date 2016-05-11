@@ -8,6 +8,15 @@ var game = {
       marker: "o",
     }
 }
+var
+varvar
+varvar
+varvar
+var
+var
+var
+var
+
 
 var startButton = document.querySelector('#startGame');
 var resetButton = document.querySelector('#resetGame');
